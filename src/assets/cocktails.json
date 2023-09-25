@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Mojito",
+    "price": 10,
+    "image": "https://www.cocktailmag.fr/media/k2/items/cache/063ee9aeb9f60efa02823e51450f82ce_S.jpg"
+  },
+  {
+    "name": "Gin Tonic",
+    "price": 9,
+    "image": "https://www.cocktailmag.fr/media/k2/items/cache/4d8c9898b5bb88437f053c8b957f47f3_S.jpg"
+  },
+  {
+    "name": "Irish Coffee",
+    "price": 12,
+    "image": "https://www.cocktailmag.fr/media/k2/items/cache/7539a1b30386b8951ffea14c91e802dc_S.jpg"
+  },
+  {
+    "name": "Pina Colada",
+    "price": 11,
+    "image": "https://www.cocktailmag.fr/media/k2/items/cache/63503204d18160dd6a733e989b70c404_S.jpg"
+  },
+  {
+    "name": "Moscow Mule",
+    "price": 9,
+    "image": "https://www.cocktailmag.fr/media/k2/items/cache/63503204d18160dd6a733e989b70c404_S.jpg"
+  }
+]
